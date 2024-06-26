@@ -3,7 +3,7 @@ body {
 }
 
 .wrapper {
-  height: 100%;
+  height: 250%;
   width: 100%;
   display: flex;
   flex-direction: row;
@@ -97,4 +97,11 @@ h1 {
 
 .sami{
   color: white;
+}
+
+.sprachen{
+  margin-left: 20%;
+  margin-top: 25%;
+  padding-top: 10%;
+  width: 40%;
 }
